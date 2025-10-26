@@ -1,0 +1,7 @@
+com\blog\BlogController.class
+com\blog\BlogPostRepository.class
+com\blog\BlogApplication.class
+com\blog\UserRepository.class
+com\blog\BlogPost.class
+com\blog\AuthController.class
+com\blog\User.class
